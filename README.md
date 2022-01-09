@@ -6,3 +6,6 @@ We generated consolidate files with different attacks in order to build a model 
 We identified the best precision with Random Forest.
 
 ![image](https://user-images.githubusercontent.com/57611549/148313854-75312f25-919f-4eb0-bc50-3d4576957b33.png)
+
+![image](https://user-images.githubusercontent.com/57611549/148694203-204bc9da-61bd-4cc8-831c-04fb7ce20d91.png)
+
