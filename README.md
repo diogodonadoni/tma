@@ -3,7 +3,10 @@ This is the shared repository for the Network traffic monitoring and analysis (T
 We used the dataset CSE-CIC-IDS2018
 https://www.unb.ca/cic/datasets/ids-2018.html
 We generated consolidate files with different attacks in order to build a model using Weka.
-![image](https://user-images.githubusercontent.com/57611549/148313854-75312f25-919f-4eb0-bc50-3d4576957b33.png)
+
+![image](https://user-images.githubusercontent.com/57611549/148694580-aefc0701-16ef-48e2-8528-394e665a4d79.png)
+
+
 Consolidate1 has a subset of instance (avg 10.000) from the beggining of the dataset
 Consolidate2 has a subset of instance (avg 10.000) from the middle of the dataset
 Consolidate3 has a subset of instance (avg 10.000 )from the end of the dataset
